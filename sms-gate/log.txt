@@ -1,0 +1,6 @@
+PHP 5.6.30-1+deb.sury.org~xenial+1 | '/usr/bin/php5.6' -c '/etc/php/5.6/apache2/php.ini' | 8 threads
+
+-- FAILED: sms-gate/tests/Validators.validateNumber.phpt
+   Exited with error code 255 (expected 0)
+
+FAILURES! (1 tests, 1 failures)

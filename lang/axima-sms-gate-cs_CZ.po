@@ -1,0 +1,213 @@
+# Translation of Plugins - sms.sluzba.cz &#8211; SMS gate WooCommerce plugin - Development (trunk) in Czech
+# This file is distributed under the same license as the Plugins - sms.sluzba.cz &#8211; SMS gate WooCommerce plugin - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-15 11:38:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - sms.sluzba.cz &#8211; SMS gate WooCommerce plugin - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://www.axima-brno.cz"
+msgstr "https://www.axima-brno.cz"
+
+#. Author of the plugin/theme
+msgid "Axima"
+msgstr "Axima"
+
+#. Description of the plugin/theme
+msgid "Reliable and cheap SMS gate, which sends guaranteed SMS to whole world. Support for delivery reports included."
+msgstr "Spolehlivá a levná SMS brána, která odesílá garantované SMS do celého světa."
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.pays.cz"
+msgstr "https://www.pays.cz"
+
+#. Plugin Name of the plugin/theme
+msgid "sms.sluzba.cz - SMS gate WooCommerce plugin"
+msgstr "sms.sluzba.cz - SMS gate WooCommerce plugin"
+
+#: src/templates/settings.php:85
+msgid "Preview"
+msgstr "Náhled"
+
+#: src/templates/settings.php:68
+msgid "Enabled"
+msgstr "Zapnuto"
+
+#: src/templates/settings.php:64
+msgid "Status:"
+msgstr "Status:"
+
+#: src/templates/settings.php:48
+msgid "Example data"
+msgstr "Ukázková data"
+
+#: src/templates/settings.php:47
+msgid "Placeholder"
+msgstr "Makro"
+
+#: src/templates/settings.php:41
+msgid "You can use following placeholders:"
+msgstr "Můžete využít následující makra:"
+
+#: src/templates/settings.php:39
+msgid "Messages settings"
+msgstr "Nastavení zpráv"
+
+#: src/templates/settings.php:34 src/templates/settings.php:95
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: src/templates/settings.php:33 src/templates/settings.php:94
+msgid "Save"
+msgstr "Uložit"
+
+#: src/templates/settings.php:28
+msgid "Fill only if you want to change saved password."
+msgstr "Vyplňte pouze pokud chcete změnit uložené heslo"
+
+#: src/templates/settings.php:28
+msgid "Your password for pays.cz service."
+msgstr "Vaše heslo pro sms.sluzba.cz"
+
+#: src/templates/settings.php:25
+msgid "Password"
+msgstr "Heslo"
+
+#: src/templates/settings.php:21
+msgid "Your login for pays.cz service"
+msgstr "Vaše přihlašovací jméno pro sms.sluzba.cz"
+
+#: src/templates/settings.php:18
+msgid "Login"
+msgstr "Přihlašovací jméno"
+
+#: src/templates/settings.php:13
+msgid "Change"
+msgstr "Změnit"
+
+#: src/templates/settings.php:12
+msgid "User logged in as %s"
+msgstr "Přihlášen uživatel %s"
+
+#: src/templates/settings.php:9
+msgid "User settings"
+msgstr "Nastavení uživatele"
+
+#: src/templates/logs.php:56
+msgid "Resend"
+msgstr "Poslat znovu"
+
+#: src/templates/logs.php:38
+msgid "Error"
+msgstr "Chyba"
+
+#: src/templates/logs.php:37
+msgid "Received"
+msgstr "Doručeno"
+
+#: src/templates/logs.php:36
+msgid "Sent"
+msgstr "Odesláno"
+
+#: src/templates/logs.php:25
+msgid "Action"
+msgstr "Akce"
+
+#: src/templates/logs.php:24
+msgid "State"
+msgstr "Stav"
+
+#: src/templates/logs.php:22 src/templates/settings.php:74
+msgid "Text"
+msgstr "Text"
+
+#: src/templates/logs.php:21
+msgid "Date"
+msgstr "Datum"
+
+#: src/templates/logs.php:12
+msgid "This action may take a while to process."
+msgstr "Tato akce může chvíli trvat"
+
+#: src/templates/logs.php:11
+msgid "Check for delivery status"
+msgstr "Zkontrolovat příjemky"
+
+#: src/templates/logs.php:10
+msgid "Last check:"
+msgstr "Poslední kontrola:"
+
+#: src/templates/includes/menu.php:50 src/templates/logs.php:5
+msgid "Logs"
+msgstr "Logy"
+
+#: src/templates/includes/menu.php:19
+msgid "characters count:"
+msgstr "počet znaků:"
+
+#: src/templates/includes/menu.php:19
+msgid "segment count:"
+msgstr "počet částí:"
+
+#: src/templates/default.php:90
+msgid "Send"
+msgstr "Odeslat"
+
+#: src/templates/default.php:82
+msgid "Message text"
+msgstr "Text zprávy"
+
+#: src/templates/default.php:75 src/templates/logs.php:23
+msgid "Phone number"
+msgstr "Telefonní číslo"
+
+#: src/templates/default.php:67
+msgid "Send custom SMS message"
+msgstr "Odeslat SMS zprávu"
+
+#: src/templates/default.php:59
+msgid "Last update"
+msgstr "Naposledy zkontrolováno"
+
+#: src/templates/default.php:52
+msgid "Refresh"
+msgstr "Obnovit"
+
+#: src/templates/default.php:51
+msgid "Last known credit"
+msgstr "Poslední známý kredit"
+
+#: src/templates/default.php:37
+msgid "Last week errors"
+msgstr "Počet chyb za poslední týden"
+
+#: src/templates/default.php:31
+msgid "Total errors"
+msgstr "Celkový počet chyb"
+
+#: src/templates/default.php:18
+msgid "Last week SMS delivered/sent"
+msgstr "Doručeno/odesláno zpráv za poslední týden"
+
+#: src/templates/default.php:12
+msgid "Total SMS delivered/sent"
+msgstr "Celkově doručeno/odesláno zpráv"
+
+#: src/templates/default.php:4 src/templates/includes/menu.php:47
+msgid "Dashboard"
+msgstr "Nástěnka"
+
+#: src/Plugin.php:114 src/templates/includes/menu.php:53
+#: src/templates/settings.php:4
+msgid "Settings"
+msgstr "Nastavení"
+
+#: src/Plugin.php:105 src/Plugin.php:106
+msgid "sms.sluzba.cz"
+msgstr "sms.sluzba.cz"
